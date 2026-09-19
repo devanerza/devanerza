@@ -4,7 +4,6 @@ Software developer passionate about product development and building technology 
 
 ## Currently
 - 🌱 Learning Golang, Laravel, and software architecture
-- 🔨 Building AI & blockchain-powered web applications
 - 💡 Interested in Full-stack engineering, SaaS, and developer tools
 
 ## Tech
